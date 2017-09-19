@@ -12,10 +12,8 @@
 Alternatively, for H1 and H2, an underline-ish style:
 
 Alt-H1
-======
 
 Alt-H2
-------
 
 
 [I'm an inline-style link](https://www.google.com)
@@ -55,3 +53,13 @@ print s
 No language indicated, so no syntax highlighting. 
 But let's throw in a <b>tag</b>.
 ```
+Receita bolo de cenoura:
+
+Massa:
+
+    1/2 xícara (chá) de óleo.
+    3 cenouras médias raladas.
+    4 ovos.
+    2 xícaras (chá) de açúcar.
+    2 e 1/2 xícaras (chá) de farinha de trigo.
+    1 colher (sopa) de fermento em pó
